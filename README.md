@@ -1,5 +1,6 @@
 # AmazonSellerCentral
-Short description and motivation.
+
+**THIS GEM IS UNDER DEVELOPMENT**
 
 ## Usage
 How to use my plugin.
