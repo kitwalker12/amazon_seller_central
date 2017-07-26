@@ -1,6 +1,6 @@
 # AmazonSellerCentral
 
-**THIS GEM IS UNDER DEVELOPMENT**
+**!!!THIS GEM IS UNDER DEVELOPMENT!!!** There is an existing gem called [peddler](https://github.com/hakanensari/peddler) which already provides an API to AMWS
 
 ## Usage
 How to use my plugin.
